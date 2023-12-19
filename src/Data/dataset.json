@@ -1,0 +1,81 @@
+
+
+  {
+    "app": {
+      "header": {
+        "title": "Dora and the Lost City of Gold",
+        "genres": ["Movie", "Adventure", "Comedy", "Family"],
+        "rating": 4.0,
+        "summary": "Having spent most of her life exploring the jungle, nothing could prepare Dora for her most dangerous adventure yet — high school."
+      },
+      "cast": [
+        {
+          "id": 1,
+          "name": "Isabela Moner",
+          "profile": "Unknown"
+        },
+        {
+          "id": 2,
+          "name": "Michael Peña",
+          "profile": {
+            "actor": {
+              "info": {
+                "text": "Michael Peña was born and raised in Chicago, to Nicolasa, a social worker, and Eleuterio Peña, who worked at a button factory. His parents were originally from Mexico."
+              },
+              "knownFor": [
+                {
+                  "id": 1,
+                  "movieTitle": "Ant Man",
+                  "genre": "Action/Comedy"
+                },
+                {
+                  "id": 2,
+                  "movieTitle": "End of Watch",
+                  "genre": "Crime/Drama"
+                },
+                {
+                  "id": 3,
+                  "movieTitle": "American Hustle",
+                  "genre": "Crime/Drama"
+                },
+                {
+                  "id": 4,
+                  "movieTitle": "Crash",
+                  "genre": "Drama/Thriller"
+                }
+              ]
+            }
+          }
+
+        },
+        {
+          "id": 3,
+          "name": "Eva Longoria",
+          "profile": "Unknown"
+        },
+        {
+          "id": 4,
+          "name": "Eugenio Derbez",
+          "profile": "Unknown"
+        }
+      ],
+      "currentWatching": [
+        {
+          "id": 1,
+          "title": "Narcos"
+        },
+        {
+          "id": 2,
+          "title": "Deadpool 2"
+        },
+        {
+          "id": 3,
+          "title": "Annabelle"
+        },
+        {
+          "id": 4,
+          "title": "Frozen"
+        }
+      ]
+    }
+  }

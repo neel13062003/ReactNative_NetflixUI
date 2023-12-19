@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Narcos",
+      "episodes": 0,
+      "size": "5.02GB"
+    },
+    {
+      "id": 2,
+      "title": "Alita Battle Angel",
+      "episodes": 0,
+      "size": "1.45GB"
+    },
+    {
+      "id": 3,
+      "title": "Gotham",
+      "episodes": 8,
+      "size": "10.04GB"
+    },
+    {
+      "id": 4,
+      "title": "Sacred Games",
+      "episodes": 3,
+      "size": "2.02GB"
+    },
+    {
+      "id": 5,
+      "title": "Shazam",
+      "episodes": 0,
+      "size": "2.32GB"
+    },
+    {
+      "id": 6,
+      "title": "Toy Story 4",
+      "episodes": 0,
+      "size": "3.45GB"
+    }
+]

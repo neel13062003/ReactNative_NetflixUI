@@ -1,0 +1,26 @@
+[
+  {
+    "category": "TV Shows",
+    "items": [
+      { "id": 5, "title": "Stranger Things" },
+      { "id": 6, "title": "Full House" },
+      { "id": 7, "title": "Castaway Diva" },
+      { "id": 8, "title": "My Demon" },
+      { "id": 9, "title": "Kaala Paani" },
+      { "id": 10, "title": "Gen V" },
+      { "id": 11, "title": "Bodies" }
+    ]
+  },
+  {
+    "category": "Movies",
+    "items": [
+      { "id": 12, "title": "Goodfellas" },
+      { "id": 13, "title": "Street Fighter" },
+      { "id": 14, "title": "Annie Hall" },
+      { "id": 15, "title": "The Prestige" },
+      { "id": 16, "title": "Street Kings" },
+      { "id": 17, "title": "Double Indemnity" },
+      { "id": 18, "title": "Vertigo" }
+    ]
+  }
+]
